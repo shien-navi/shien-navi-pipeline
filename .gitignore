@@ -1,1 +1,9 @@
+# ローカル設定・秘密情報
+.env
+.clasp.json
+secrets.json
 
+# OS・エディタ一時ファイル
+.DS_Store
+Thumbs.db
+*.log
